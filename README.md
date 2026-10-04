@@ -56,3 +56,8 @@ Spam / Not Spam Prediction
 The application classifies SMS messages as Spam or Not Spam.
 
 ![SMS Spam Prediction](sms-prediction.png)
+## 🚀 Live Demo
+
+Try the SMS Spam Detection application here:
+
+[Open the Live App](https://sms-spam-detection-8e5rtgxoxf2kwtfkngc9yn.streamlit.app/)
