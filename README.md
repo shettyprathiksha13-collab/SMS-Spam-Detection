@@ -51,3 +51,8 @@ Multinomial Naive Bayes
 Model Evaluation
      ↓
 Spam / Not Spam Prediction
+## 📸 Prediction Example
+
+The application classifies SMS messages as Spam or Not Spam.
+
+![SMS Spam Prediction](sms-prediction.png)
